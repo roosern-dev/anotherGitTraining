@@ -4,7 +4,7 @@ import sys
 
 
 def main():
-    print("hello world! this is a calculator app")
+    print("konichiwa! this is a calculator app")
     print("please give your numbers and operations")
     
     while True:
